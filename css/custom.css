@@ -1,0 +1,24 @@
+/* 
+* Custom Styles used in the presentation 
+*/
+
+.sponsors-horizontal img {
+	vertical-align: middle;
+}
+
+.sponsors-vertical {
+	float: left;
+	margin-top: 20px;
+}
+.sponsors-vertical div {
+	text-align: center;
+	width: 380px;
+} 
+.sponsors-vertical div img {
+	margin: 10px !important;
+}
+
+.twitter-feed {
+	float: right;
+	margin-right: 30px;
+}
