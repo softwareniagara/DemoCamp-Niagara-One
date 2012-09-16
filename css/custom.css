@@ -8,7 +8,7 @@
 .slides  section {
 	padding-top: 0 !important;
 }
-.reveal .slides  h1 {
+.reveal .slides  h1, .reveal .slides  h2 {
 	margin-top: 20px;
 }
 .reveal .slides .header {
